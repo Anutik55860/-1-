@@ -7,3 +7,6 @@ big_netsole = 35.0
 drobnoe -= 1
 print(drobnoe)
 tseloe/drobnoe
+print (tseloe/drobnoe)
+big_netsole/drobnoe
+print (big_netsole/drobnoe)
