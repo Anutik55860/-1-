@@ -1,0 +1,9 @@
+tseloe = 10
+drobnoe = 8.4
+stroka = "no" 
+tseloe  *= 3.5
+print(tseloe)
+big_netsole = 35.0
+drobnoe -= 1
+print(drobnoe)
+tseloe/drobnoe
